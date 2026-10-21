@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "KWin/Script",
+  "KPlugin": {
+    "Name": "DualSpan — Two-screen Window Span",
+    "Description": "Span focused app across two screens and restore",
+    "Icon": "video-display",
+    "Id": "dualspan-kwin",
+    "Version": "0.2.0",
+    "License": "MIT",
+    "Authors": [
+      {
+        "Name": "DualSpan prototype"
+      }
+    ]
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js"
+}
