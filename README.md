@@ -10,7 +10,7 @@ Free and open-source (MIT) prototype for spanning a **normal resizable applicati
 
 **Not yet tested on physical multi-monitor hardware.**
 
-The full v0.2 source package includes a Tkinter GUI, CLI, native Windows and Linux backends, KDE extension, tests and build instructions. Until every source file is synchronized here, use the complete source ZIP provided in the release conversation. See LICENSE for terms.
+This repository includes the v0.2 Python GUI, CLI, native Windows and Linux X11 backends, experimental KDE KWin script, tests, and build instructions. Generate the KDE KWin package with `python3 scripts/build.py`. See LICENSE for terms.
 
 ## Using the complete source package
 
